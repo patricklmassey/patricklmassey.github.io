@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: "Publications"
 permalink: /publications/
 author_profile: true
@@ -15,9 +15,4 @@ Hello World!
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
----
-layout: archive
-title: "Publications_test"
-permalink: /publications/
-author_profile: true
----
+
