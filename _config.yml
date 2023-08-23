@@ -118,7 +118,7 @@ author:
 
 
 # Reading Files
-include:a
+include:
   - .htaccess
   - _pages
   - files
